@@ -1,0 +1,5 @@
+username,password,expected_result
+hmgsamir8@gmail.com,123qweasdzxc,passed
+birojakarki@gmail.com,123qweasdzxc,failed
+karkibiroja@gmail.com,123ertasdzxc,failed
+karkibiroja@gmail.com,123qweasdzxc,passed
