@@ -13,7 +13,7 @@ def driver():
 def logged_in_driver(driver):
     driver.get("http://localhost:5173/login")
     login = LoginPage(driver)
-    login.enter_username("hmgsamir@gmail.com")  # can also use test data
+    login.enter_username("hmgsamir8@gmail.com")  # can also use test data
     login.enter_password("123qweasdzxc")
     login.click_login()
     wait_for_url(driver, "dashboard")  # wait until dashboard is loaded

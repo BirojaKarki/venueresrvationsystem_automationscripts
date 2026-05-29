@@ -1,0 +1,3 @@
+venue_name,location,description,image_path,price,capacity,x_offset,y_offset,expected_result
+Royal Hall,Kathmandu,oen of the best,C:\Users\Lenovo\Desktop\VRS-automationtesting(Selenium)\data\images\greengarden.jpg,20000,10,90,100,pass
+Green Garden,Pokhara,top,C:\Users\Lenovo\Desktop\VRS-automationtesting(Selenium)\data\images\greengarden.jpg,10000,11,100,100,pass
